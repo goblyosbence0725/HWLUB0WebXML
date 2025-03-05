@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orarend>
+    <ora id="01" tipus="elmelet">
+        Számitáselmélet   
+    </ora>
+    <idopont nap="hetfo" tol="10:00" ig="12:55"></idopont>
+    <helyszin>online</helyszin>
+    <oktato>Dr.Veres Laura</oktato>
+    <szak>Programtervezo informatikus</szak>
+    <ora id="02" tipus="elmelet">
+        Komputergrafika és képfeldolgozás   
+    </ora>
+    <idopont nap="hetfo" tol="14:00" ig="15:25"></idopont>
+    <helyszin>online</helyszin>
+    <oktato>Fazekas Levente Áron</oktato>
+    <szak>Programtervezo informatikus</szak>
+    <ora id="03" tipus="elmelet">
+        Informatikatörténet
+    </ora>
+    <idopont nap="hetfo" tol="15:00" ig="18:20"></idopont>
+    <helyszin>Hárs</helyszin>
+    <oktato>Janics Tamás</oktato>
+    <szak>Programtervezo informatikus</szak>
+    
+    <ora id="04" tipus="elmelet">
+        Alkalmazások fejlesztése projekt labor II.
+    </ora>
+    <idopont nap="szerda" tol="10:00" ig="12:55"></idopont>
+    <helyszin>Kabar</helyszin>
+    <oktato>Perlaki Attila</oktato>
+    <szak>Programtervezo informatikus</szak>
+    
+    <ora id="05" tipus="gyakorlat">
+        Webkönyvtárak
+    </ora>
+    <idopont nap="szerda" tol="14:00" ig="15:25"></idopont>
+    <helyszin>online</helyszin>
+    <oktato>Dr.Bednarik László</oktato>
+    <szak>Programtervezo informatikus</szak>
+    <ora id="06" tipus="gyakorlat">
+        Hálózati architektúrák és protokollok
+    </ora>
+    <idopont nap="szerda" tol="17:00" ig="18:25"></idopont>
+    <helyszin>Kabar</helyszin>
+    <oktato>Janics Tamás</oktato>
+    <szak>Programtervezo informatikus</szak>
+    
+             
+</orarend>
+
