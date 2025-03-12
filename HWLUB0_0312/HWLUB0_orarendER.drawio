@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OtHK8d_raCcPBz6skd5R-1" value="HWLUB0_orarend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtHK8d_raCcPBz6skd5R-2" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="392" y="225" width="52" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="OtHK8d_raCcPBz6skd5R-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="157" width="68" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OtHK8d_raCcPBz6skd5R-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OtHK8d_raCcPBz6skd5R-9" target="OtHK8d_raCcPBz6skd5R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="201" as="sourcePoint" />
+            <mxPoint x="407" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
